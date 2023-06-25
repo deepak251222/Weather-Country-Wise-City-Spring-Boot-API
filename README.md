@@ -41,4 +41,4 @@ O/P :-   http://localhost:1111/country/one/India
             {
                 "city": "Ahmedabad"
             },
-             ............I did not put all out put becouse large list.
+             ............I did not put all output becouse large list.
