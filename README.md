@@ -7,7 +7,7 @@ Two Api call in one spring boot Project
 
  1.PostMan or Any web browser
 
-uri:- http://localhost:1111/country/one/India(please get all url by controller class)
+uri:- http://localhost:1111/country/one/India(please get all url by controller class )
 
 In This Api i used 3rd party API for getting data.I Added all 3rd party url into this project,not need find any 
 key becouse i already given KEY.
